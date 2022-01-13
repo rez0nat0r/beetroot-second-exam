@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Gotham';
+  src: url("../fonts/GothamBook/GothamBook.eot"), url("../fonts/GothamBook/GothamBook.ttf"), url("../fonts/GothamBook/GothamBook.woff");
+  font-weight: lighter;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: url("../fonts/gothambold/gothambold1.eot"), url("../fonts/gothambold/gothambold1.ttf"), url("../fonts/gothambold/gothambold1.woff");
+  font-weight: bold;
+}
+/*# sourceMappingURL=fonts.css.map */

@@ -1,0 +1,13 @@
+@mixin BG($bg, $repeat, $position, $size) {
+    background: $bg;
+    background-repeat: $repeat;
+    background-position: $position;
+    background-size: $size;
+}
+
+@mixin dsFlex($a-items,$j-content,$f-dir) {
+    display: flex;
+    align-items: $a-items;
+    justify-content: $j-content;
+    flex-direction: $f-dir;
+}
